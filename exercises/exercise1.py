@@ -17,6 +17,8 @@ class Circle:
         - No utilizar Properties
         - Utilizar Type Hints en todos los métodos y variables
     """
+    hvbfjdbvjkfdvg
+    
 
 
 # NO MODIFICAR - INICIO
